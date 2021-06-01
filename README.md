@@ -199,7 +199,7 @@ In general, we can confirm that a Round Robin scheduler with too long a quantum 
       <td><img src="img/res4.png" width = 400px></td>
   </tr>
    <tr>
-      <td colspan="2"><img src="img/res5.png" width = 800px></td>
+      <td colspan="2"><img src="img/res5.png" width = 850px></td>
   </tr>
 </table>
 
